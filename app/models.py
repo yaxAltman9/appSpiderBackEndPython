@@ -1,5 +1,4 @@
-pip install flask-mysqldb
-
+from flask_mysqldb import MySQL
 import logging
 
 
